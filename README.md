@@ -2,4 +2,4 @@ The simplest thing our string calculator can do is accept an empty string, in wh
 
 |INPUT| OUTPUT|
 |-----|-----|
-| " " | 0   |
+| " " | 0   |# string_calculator
